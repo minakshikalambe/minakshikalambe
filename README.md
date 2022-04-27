@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--NZMLmld6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Minakshi Kalambe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"/>
+//<img align="center" alt="" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minakshikalambe&label=Profile%20views&color=0e75b6&style=flat" alt="minakshikalambe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/minakshi10oct" target="blank"><img src="https://img.shields.io/twitter/follow/minakshi10oct?logo=twitter&style=for-the-badge" alt="minakshi10oct" /></a> </p>
